@@ -5,7 +5,8 @@
 [![Build Status](https://img.shields.io/github/stars/soyandrey/PascalObfuscator.svg?style=for-the-badge)](https://github.com/soyandrey/PascalObfuscator)
 [![jkl - Bar](https://img.shields.io/badge/Crackeable-true-red?style=for-the-badge)](https://)
 # PascalObfuscator
-PascalHacks Private Obfuscator
+"PascalHacks Private Obfuscator"
+This  just a skid from the boronide source leak 
 ## Usage
 ```lua
 local a = [[
